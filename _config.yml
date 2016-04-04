@@ -1,0 +1,28 @@
+name: NicoleFranco
+favicon: null
+layout_spectrum: 0.37872469890862703
+typography_spectrum: 0.44870226574130356
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.1643188043963164
+  lightness: 0.5721813258714974
+  saturation: 0.3437269404530525
+  rhythmicContrast: 0.41968672117218375
+purpose: []
