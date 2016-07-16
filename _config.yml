@@ -2,7 +2,7 @@ name: NicoleFranco
 favicon: null
 layout_spectrum: 0.37872469890862703
 typography_spectrum: 0.44870226574130356
-title: 'Actress & Voice Over'
+title: Actress & Voice Over
 cta:
   domain: null
   bucket: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0f0f0f'
-    - '#e1bdc0'
-    - '#eef7fe'
-    - '#92848e'
-    - '#705157'
+    - '#100d0b'
+    - '#ac9875'
+    - '#c8bfb2'
+    - '#8745cf'
+    - '#fdeff7'
   brandStrength: 0.1643188043963164
   lightness: 0.5721813258714974
   saturation: 0.3437269404530525
